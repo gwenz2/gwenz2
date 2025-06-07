@@ -9,8 +9,8 @@
 - 🧠 I enjoy solving real-world problems through school projects and personal passion builds
 - 🛠️ I build apps, websites, IoT systems, and small games — mostly using **MariaDB**, **Bootstrap**, and **Java**
 - 💡 Currently learning **better UI design**, **database management**, and improving my **game dev skills**
-- 💬 Ask me about anything related to **PHP**, **ESP32**, **Bootstrap**, or **Godot 4**
-- 📫 How to reach me: **example@gmail.com**
+- 💬 Ask me about anything related to **Arduino**, **Godot 4**
+- 📫 How to reach me: **gwenny252@gmail.com**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/gwenz2)
 - 📄 Know more about me through [my Facebook](https://www.facebook.com/gwen.balajediong.2024/)
 - ⚡ Fun fact: I think I am funny 😄

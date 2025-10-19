@@ -55,7 +55,7 @@
 ### 🌐 Social Links
 
 - 💼 Facebook: [gwen.balajediong.2024](https://www.facebook.com/gwen.balajediong.2024/)
-- 💻 GitHub: [gwenz2](https://github.com/gwenz2)
+- 💻 Netlify: [Portfolio](https://gwen-balajediong.netlify.app/)
 - ☕ BuyMeACoffee: [Gwenvio](https://buymeacoffee.com/gwenvio)
 
 ---

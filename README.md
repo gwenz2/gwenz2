@@ -13,7 +13,7 @@
 - 📫 How to reach me: **gwenny252@gmail.com**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/gwenz2)
 - 📄 Know more about me through [my Facebook](https://www.facebook.com/gwen.balajediong.2024/)
-- ⚡ Fun fact: I think I am funny 😄
+- ⚡ Porfolio [Check mo ;)](https://gwen-balajediong.netlify.app/)
 
 ---
 

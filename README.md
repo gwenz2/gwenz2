@@ -34,15 +34,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gwenz2&show_icons=true&theme=tokyonight" alt="gwenz2 stats" />
-  <br/>
-
-
----
-
 ### Social Links
 
 - Facebook: [gwen.balajediong.2024](https://www.facebook.com/gwen.balajediong.2024/)

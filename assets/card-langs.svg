@@ -15,9 +15,9 @@
   <rect x="26" y="66" width="368" height="10" rx="5" fill="#F1F1F1" />
   <g clip-path="url(#bar)">
     <clipPath id="bar"><rect x="26" y="66" width="368" height="10" rx="5" /></clipPath>
-    <rect x="26.00" y="66" width="0" height="10" fill="#FFC107"><animate attributeName="width" to="268.05" dur="1s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" /></rect>
-    <rect x="294.05" y="66" width="0" height="10" fill="#3572A5"><animate attributeName="width" to="99.95" dur="1s" begin="0.08s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" /></rect>
+    <rect x="26.00" y="66" width="0" height="10" fill="#3572A5"><animate attributeName="width" to="257.34" dur="1s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" /></rect>
+    <rect x="283.34" y="66" width="0" height="10" fill="#FF9016"><animate attributeName="width" to="110.66" dur="1s" begin="0.08s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" /></rect>
   </g>
-  <g class="fade" style="animation-delay:0.00s"><circle cx="31" cy="100" r="5" fill="#FFC107" /><text x="43" y="104" font-size="12" fill="#353535">Kotlin 72.84%</text></g>
-  <g class="fade" style="animation-delay:0.08s"><circle cx="223" cy="100" r="5" fill="#3572A5" /><text x="235" y="104" font-size="12" fill="#353535">Python 27.16%</text></g>
+  <g class="fade" style="animation-delay:0.00s"><circle cx="31" cy="100" r="5" fill="#3572A5" /><text x="43" y="104" font-size="12" fill="#353535">Python 69.93%</text></g>
+  <g class="fade" style="animation-delay:0.08s"><circle cx="223" cy="100" r="5" fill="#FF9016" /><text x="235" y="104" font-size="12" fill="#353535">Kotlin 30.07%</text></g>
 </svg>

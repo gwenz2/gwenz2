@@ -17,6 +17,11 @@ I build Websites, Apps, and AI agent tools.
 - **Databases:** MySQL, PostgreSQL, Supabase, SQLite
 - **AI & Infra:** Python, AI agents & MCP tools, Git, GitHub Actions, Docker, Linux
 
+## Projects
+
+- **[vid2skill](https://github.com/gwenz2/vid2skill)** — Convert YouTube videos, audio, and text into validated `SKILL.md` agent packages with paired YAML trigger tests.
+- **[DrionTune](https://github.com/gwenz2/DrionTune)** — Freeze background apps at 0% CPU/RAM and fix Android game lag without root (via Shizuku).
+
 ## Stats
 
 <p align="center">
